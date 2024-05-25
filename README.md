@@ -1,0 +1,3 @@
+# vanilla-php
+
+./build php
